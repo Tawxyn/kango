@@ -1,2 +1,2 @@
 # kango
-Go CLI baed kanban board (in development).
+Go CLI based kanban board (in development).
